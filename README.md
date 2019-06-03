@@ -6,6 +6,7 @@ Included models are:
 - Solar radiation on solar panels
 - physical distribution of items in a warehouse (lacks IA)
 - Simple harmonic motion
+- Some unfinished tests
 
 Only the Heat Conduction model was included in the final paper. 
 The model can be found here https://github.com/juliopw/TICT-Modelagem-Bifocal-NetLogo
