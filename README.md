@@ -3,7 +3,7 @@ Some WIP NetLogo models developed for my undergraduate thesis in Mechanical Engi
 
 Included models are: 
 - Particle based Venturi effect
-- Radiation on solar panels
+- Solar radiation on solar panels
 - physical distribution of items in a warehouse (lacks IA)
 
 Only the Heat Conduction model was included in the final paper. 
