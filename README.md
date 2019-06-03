@@ -6,4 +6,5 @@ Included models are:
 - Radiation on solar panels
 - physical distribution of items in a warehouse (lacks IA)
 
-Only the Heat Conduction model was included in the final paper. The model can be found here https://github.com/juliopw/TICT-Modelagem-Bifocal-NetLogo
+Only the Heat Conduction model was included in the final paper. 
+The model can be found here https://github.com/juliopw/TICT-Modelagem-Bifocal-NetLogo
